@@ -1,0 +1,13 @@
+git control system that is designed to handle small and large projects symultaninously
+github  a web based application that uses git version 
+
+git config username <use github username>
+git config --global user.name "SultanTipa1"
+
+git config email <use email used to open github>
+git config --global user.email "josephngumbaugush@gmail.com"
+
+push files to github
+initialise git
+$ git init
+
