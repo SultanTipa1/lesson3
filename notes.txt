@@ -11,3 +11,34 @@ push files to github
 initialise git
 $ git init
 
+add files to git
+$ git add .
+git commit -m "add content to index.html file"
+
+how to push to git
+git remote add origin "https://github.com/SultanTipa1/lesson3.git
+
+To check if youve connected to respiratory of your project 
+git remote -v
+
+branches
+creating branches as assigned to developers that they can push to the main(master) branches
+
+$git branch 
+git checkout
+
+create
+git checkout -b joseph_navbar
+
+move out of branch 
+git checkout main
+
+change something and refresh<add smthng specific>
+$git add index.html
+<add all>
+$git add .
+
+$git commit -m "change title spelling"
+
+$ git push --set-upstream origin main
+$ git add index.html
